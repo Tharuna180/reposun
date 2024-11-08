@@ -1,2 +1,2 @@
 " my second repo " 
-"This is my secind GitHub project" 
+"This is my second GitHub project" 
